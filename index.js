@@ -38,5 +38,12 @@ let fs;
 console.log(fs);
 
 // Changes Made here
-// map 
+// map() method
+// filter() method
+// reduce() method
 
+// sort() method
+let arr=[1,2,3,4,5,6,7,8,9];
+console.log(arr.sort());
+// Splice() method
+// Slice() method
